@@ -28,7 +28,7 @@ For detailed overview, here is the accompanying blog titled:**[Building a Simple
 
 For platform-specific instructions, read [here](https://www.nltk.org/install.html)
 
-### Installation of NLTK
+### Installation of NLTK(Natural Language Toolkit)
 ```
 pip install nltk
 ```
